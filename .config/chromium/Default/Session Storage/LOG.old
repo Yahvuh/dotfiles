@@ -1,0 +1,33 @@
+2016/06/24-20:30:32.302 29947 Reusing MANIFEST /home/heaven/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/06/24-20:30:32.302 29947 Recovering log #79
+2016/06/24-20:30:32.304 29947 Level-0 table #84: started
+2016/06/24-20:30:32.369 29947 Level-0 table #84: 165040 bytes OK
+2016/06/24-20:30:32.369 29947 Recovering log #83
+2016/06/24-20:30:32.369 29947 Reusing old log /home/heaven/.config/chromium/Default/Session Storage/000083.log 
+2016/06/24-20:30:32.503 29947 Delete type=0 #79
+2016/06/24-20:31:55.566 30503 Level-0 table #86: started
+2016/06/24-20:31:55.697 30503 Level-0 table #86: 28597 bytes OK
+2016/06/24-20:31:55.731 30503 Delete type=0 #83
+2016/06/24-20:32:32.114 30503 Level-0 table #88: started
+2016/06/24-20:32:32.162 30503 Level-0 table #88: 85914 bytes OK
+2016/06/24-20:32:32.196 30503 Delete type=0 #85
+2016/06/24-20:34:32.118 30503 Level-0 table #90: started
+2016/06/24-20:34:32.156 30503 Level-0 table #90: 66927 bytes OK
+2016/06/24-20:34:32.190 30503 Delete type=0 #87
+2016/06/24-20:34:32.190 30503 Compacting 4@0 + 2@1 files
+2016/06/24-20:34:32.324 30503 Generated table #91@0: 1341 keys, 2104378 bytes
+2016/06/24-20:34:32.402 30503 Generated table #92@0: 946 keys, 967116 bytes
+2016/06/24-20:34:32.402 30503 Compacted 4@0 + 2@1 files => 3071494 bytes
+2016/06/24-20:34:32.436 30503 compacted to: files[ 0 2 1 0 0 0 0 ]
+2016/06/24-20:34:32.436 30503 Delete type=2 #86
+2016/06/24-20:34:32.436 30503 Delete type=2 #88
+2016/06/24-20:34:32.436 30503 Delete type=2 #82
+2016/06/24-20:34:32.436 30503 Delete type=2 #84
+2016/06/24-20:34:32.436 30503 Delete type=2 #81
+2016/06/24-20:34:32.437 30503 Delete type=2 #90
+2016/06/24-20:39:32.127 30503 Level-0 table #94: started
+2016/06/24-20:39:32.178 30503 Level-0 table #94: 69354 bytes OK
+2016/06/24-20:39:32.211 30503 Delete type=0 #89
+2016/06/24-20:42:32.132 30503 Level-0 table #96: started
+2016/06/24-20:42:32.172 30503 Level-0 table #96: 86465 bytes OK
+2016/06/24-20:42:32.195 30503 Delete type=0 #93

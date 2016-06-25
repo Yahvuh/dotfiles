@@ -1,0 +1,4 @@
+URxvt*termName:			rxvt
+URxvt*scrollBar_right:  	false
+URxvt*scrollBar: 		false
+URxvt*scrollBar_floating:	false
